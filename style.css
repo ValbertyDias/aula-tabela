@@ -1,19 +1,20 @@
 tr{
- border: 1px solid black;
- background-color: beige;
+ border: 5px solid black;
+ background-color: rgb(182, 175, 175);
  color: blueviolet;
  font-size: 20px;
  padding: 2px;
  margin: 2px;
 
+
 }
 h2{
-    color: aliceblue;
+    color: rgb(182, 175, 175);
     background-color: red;
 
 }
 h1{
-    border: 5px solid beige ;
+    border: 5px solid rgb(179, 179, 171) ;
     margin: 5px;
     padding: 5px;
     color: blueviolet;
